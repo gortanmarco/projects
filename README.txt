@@ -1,0 +1,1 @@
+This repository contains some codes that have been used to perform a network analysis on data from CB Insights.
